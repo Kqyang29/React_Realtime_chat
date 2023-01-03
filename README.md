@@ -15,5 +15,7 @@ Techs:
 Features:
   - allow user apply 1v1 realtime chat
   - Login or SignUp with email & password
+  - allow user to Search and add Friends
+  - Messages can send with text or photo
 
 
